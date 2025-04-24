@@ -17,5 +17,7 @@ public class four {
     }
 
 
-
+    public static boolean test(int a,int b){
+        return b<a? true:false;
+    }
 }
