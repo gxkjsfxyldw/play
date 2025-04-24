@@ -11,6 +11,8 @@ public class four {
         }
     }
     public static int ldw(double a,double b){
+        System.out.println(a);
+        System.out.println(b);
         return a>b? 1:0;
     }
 
