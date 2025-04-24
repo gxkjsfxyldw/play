@@ -19,8 +19,6 @@ public class one {
         }
 
         System.out.println(Arrays.toString(arr));
-
-        System.out.println("ldw");
     }
 }
 
