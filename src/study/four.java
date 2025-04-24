@@ -10,4 +10,8 @@ public class four {
         System.out.println("ldw");
         return false;
     }
+    public static boolean test2(){
+        System.out.println("lidawng");
+        return false;
+    }
 }
