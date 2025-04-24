@@ -5,7 +5,9 @@ package study;
 public class four {
     public static void main(String[] args) {
         System.out.println("ldw");
-        System.out.println("666");
+    }
+    public static int ldw(double a,double b){
+        return (a>b)? 1:0;
     }
 
 }
