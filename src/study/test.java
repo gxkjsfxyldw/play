@@ -9,6 +9,7 @@ public class test {
             System.out.println("自费");
         }else{
             System.out.println("报销");
+            System.out.println("ldw");
         }
 
     }
