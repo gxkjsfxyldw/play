@@ -10,6 +10,7 @@ public class test {
         }else{
             System.out.println("报销");
             System.out.println("ldw");
+            System.out.println("ldw2");
         }
 
     }
