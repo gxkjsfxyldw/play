@@ -16,6 +16,7 @@ public class test {
         moveABeforeFirstB(data);
         System.out.println("处理结果: " + data);
         System.out.println("ldw");
+        System.out.println("ldw2");
     }
 
     /**
